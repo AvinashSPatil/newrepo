@@ -4,7 +4,8 @@ public class Parent {
 	
 	protected void m1() {
 		System.out.println("parent class method12345");
-	}
+		System.out.println("new line branch B");
+		}
 
 }
 
